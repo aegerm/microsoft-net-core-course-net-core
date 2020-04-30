@@ -1,0 +1,13 @@
+C:\Users\Marques\source\repos\Aula37\Aula37\bin\Debug\netcoreapp3.1\Aula37.exe
+C:\Users\Marques\source\repos\Aula37\Aula37\bin\Debug\netcoreapp3.1\Aula37.deps.json
+C:\Users\Marques\source\repos\Aula37\Aula37\bin\Debug\netcoreapp3.1\Aula37.runtimeconfig.json
+C:\Users\Marques\source\repos\Aula37\Aula37\bin\Debug\netcoreapp3.1\Aula37.runtimeconfig.dev.json
+C:\Users\Marques\source\repos\Aula37\Aula37\bin\Debug\netcoreapp3.1\Aula37.dll
+C:\Users\Marques\source\repos\Aula37\Aula37\bin\Debug\netcoreapp3.1\Aula37.pdb
+C:\Users\Marques\source\repos\Aula37\Aula37\obj\Debug\netcoreapp3.1\Aula37.csprojAssemblyReference.cache
+C:\Users\Marques\source\repos\Aula37\Aula37\obj\Debug\netcoreapp3.1\Aula37.csproj.CoreCompileInputs.cache
+C:\Users\Marques\source\repos\Aula37\Aula37\obj\Debug\netcoreapp3.1\Aula37.AssemblyInfoInputs.cache
+C:\Users\Marques\source\repos\Aula37\Aula37\obj\Debug\netcoreapp3.1\Aula37.AssemblyInfo.cs
+C:\Users\Marques\source\repos\Aula37\Aula37\obj\Debug\netcoreapp3.1\Aula37.dll
+C:\Users\Marques\source\repos\Aula37\Aula37\obj\Debug\netcoreapp3.1\Aula37.pdb
+C:\Users\Marques\source\repos\Aula37\Aula37\obj\Debug\netcoreapp3.1\Aula37.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Marques\source\repos\Aula38\Aula38\bin\Debug\netcoreapp3.1\Aula38.exe
+C:\Users\Marques\source\repos\Aula38\Aula38\bin\Debug\netcoreapp3.1\Aula38.deps.json
+C:\Users\Marques\source\repos\Aula38\Aula38\bin\Debug\netcoreapp3.1\Aula38.runtimeconfig.json
+C:\Users\Marques\source\repos\Aula38\Aula38\bin\Debug\netcoreapp3.1\Aula38.runtimeconfig.dev.json
+C:\Users\Marques\source\repos\Aula38\Aula38\bin\Debug\netcoreapp3.1\Aula38.dll
+C:\Users\Marques\source\repos\Aula38\Aula38\bin\Debug\netcoreapp3.1\Aula38.pdb
+C:\Users\Marques\source\repos\Aula38\Aula38\obj\Debug\netcoreapp3.1\Aula38.csprojAssemblyReference.cache
+C:\Users\Marques\source\repos\Aula38\Aula38\obj\Debug\netcoreapp3.1\Aula38.csproj.CoreCompileInputs.cache
+C:\Users\Marques\source\repos\Aula38\Aula38\obj\Debug\netcoreapp3.1\Aula38.AssemblyInfoInputs.cache
+C:\Users\Marques\source\repos\Aula38\Aula38\obj\Debug\netcoreapp3.1\Aula38.AssemblyInfo.cs
+C:\Users\Marques\source\repos\Aula38\Aula38\obj\Debug\netcoreapp3.1\Aula38.dll
+C:\Users\Marques\source\repos\Aula38\Aula38\obj\Debug\netcoreapp3.1\Aula38.pdb
+C:\Users\Marques\source\repos\Aula38\Aula38\obj\Debug\netcoreapp3.1\Aula38.genruntimeconfig.cache

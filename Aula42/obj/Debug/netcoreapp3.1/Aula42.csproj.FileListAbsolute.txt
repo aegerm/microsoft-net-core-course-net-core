@@ -1,0 +1,13 @@
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\bin\Debug\netcoreapp3.1\Aula42.exe
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\bin\Debug\netcoreapp3.1\Aula42.deps.json
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\bin\Debug\netcoreapp3.1\Aula42.runtimeconfig.json
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\bin\Debug\netcoreapp3.1\Aula42.runtimeconfig.dev.json
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\bin\Debug\netcoreapp3.1\Aula42.dll
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\bin\Debug\netcoreapp3.1\Aula42.pdb
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\obj\Debug\netcoreapp3.1\Aula42.csprojAssemblyReference.cache
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\obj\Debug\netcoreapp3.1\Aula42.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\obj\Debug\netcoreapp3.1\Aula42.AssemblyInfoInputs.cache
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\obj\Debug\netcoreapp3.1\Aula42.AssemblyInfo.cs
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\obj\Debug\netcoreapp3.1\Aula42.dll
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\obj\Debug\netcoreapp3.1\Aula42.pdb
+C:\Users\alexandre.marques\Documents\source\repo\Aula42\obj\Debug\netcoreapp3.1\Aula42.genruntimeconfig.cache
